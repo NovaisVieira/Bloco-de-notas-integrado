@@ -6,18 +6,26 @@ O Bloco de Notas Integrado é uma extensão para o Google Chrome que permite aos
 
 ## Funcionalidades
 
-- Criação de abas para organização de anotações
-- Edição e salvamento automático das anotações
-- Exclusão de abas de forma intuitiva
-- Renomeação de abas para personalizar os assuntos
-- Interface simples e adaptável
+- Criação de Abas: Adicione até três abas para organizar suas anotações.
+- Edição de Anotações: Digite e edite suas anotações em cada aba.
+- Exclusão de Abas: Exclua abas desnecessárias com um simples clique.
+- Renomeação de Abas: Adicione um título personalizado para cada aba.
+- Design Responsivo: Interface adaptável para uma experiência de uso intuitiva.
 
 ## Instalação
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Vá para `chrome://extensions/` e ative o "Modo do desenvolvedor".
-3. Selecione a pasta clonada com "Carregar sem compactação".
-4. A extensão estará pronta para uso.
+1. Faça o download do repositório: 
+   ```sh
+   (https://github.com/NovaisVieira/Bloco-de-notas-integrado/tree/main)
+   ```
+2. Vá para
+   ```sh
+   chrome://extensions/
+   ```
+   e ative "o Modo do desenvolvedor¨ no canto superior direito.
+   
+3. Clique em Carregar sem compactação e selecione a pasta onde você baixou/clonou os arquivos do repositório.
+4. A extensão estará disponível no seu navegador.
 
 ## Uso
 
@@ -31,9 +39,9 @@ O Bloco de Notas Integrado é uma extensão para o Google Chrome que permite aos
 
 ## Tecnologias Utilizadas
 
--HTML5
--CSS3
--JavaScript
--API de Armazenamento do Chrome
+- HTML5
+- CSS3
+- JavaScript
+- API de Armazenamento do Chrome
 
 
