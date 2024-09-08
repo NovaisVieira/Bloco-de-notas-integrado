@@ -34,8 +34,7 @@ O Bloco de Notas Integrado é uma extensão para o Google Chrome que permite aos
 - As anotações são salvas no armazenamento local.
 
 ## Captura de Tela
-
-![Bloco de Notas Integrado - Captura de Tela](caminho/para/imagem.png)
+![Captura de tela 2024-09-08 151915](https://github.com/user-attachments/assets/27126983-3d22-47f9-9ad6-2a67dd467e45)
 
 ## Tecnologias Utilizadas
 
