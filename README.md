@@ -18,6 +18,8 @@ O Bloco de Notas Integrado é uma extensão para o Google Chrome que permite aos
    ```sh
    (https://github.com/NovaisVieira/Bloco-de-notas-integrado/tree/main)
    ```
+   e faça a descompactação do arquivo.
+   
 2. Vá para
    ```sh
    chrome://extensions/
