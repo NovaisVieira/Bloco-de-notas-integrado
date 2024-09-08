@@ -6,7 +6,7 @@ O Bloco de Notas Integrado é uma extensão para o Google Chrome que permite aos
 
 ## Funcionalidades
 
-- Criação de Abas: Adicione até três abas para organizar suas anotações.
+- Criação de Abas: Adicione abas para organizar suas anotações.
 - Edição de Anotações: Digite e edite suas anotações em cada aba.
 - Exclusão de Abas: Exclua abas desnecessárias com um simples clique.
 - Renomeação de Abas: Adicione um título personalizado para cada aba.
