@@ -1,5 +1,3 @@
-feat(readme): adiciona documentação inicial para extensão Bloco de Notas Integrado
-
 # Descrição
 
 O Bloco de Notas Integrado é uma extensão para o Google Chrome que permite aos usuários criar, gerenciar e editar anotações de maneira prática diretamente no navegador. Com esta ferramenta, você pode organizar suas ideias em abas distintas, nomear cada uma conforme o assunto, e excluir as que não forem mais necessárias.
