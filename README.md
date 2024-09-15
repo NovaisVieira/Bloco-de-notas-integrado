@@ -10,7 +10,7 @@ O Bloco de Notas Integrado é uma extensão para o Google Chrome que permite aos
 - Renomeação de Abas: Adicione um título personalizado para cada aba.
 - Design Responsivo: Interface adaptável para uma experiência de uso intuitiva.
 
-## Instalação
+## Instalação (Manual)
 
 1. Faça o download do repositório: 
    ```sh
