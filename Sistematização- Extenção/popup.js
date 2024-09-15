@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (document.querySelectorAll('.tab-wrapper').length === 0) {
       addNewTab(); 
     } else {
-      document.querySelectorAll('.tab-wrapper')[0].querySelector('.tab-title').click(); // Selecionar a primeira aba se houver
+      document.querySelectorAll('.tab-wrapper')[0].querySelector('.tab-title').click(); 
     }
   });
   
