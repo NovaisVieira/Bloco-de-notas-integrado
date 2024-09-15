@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
       });
   
-      // Adicionar a classe ativa ao botão de navegação correspondente
+     
       const navButtons = document.querySelectorAll('.nav-button');
       navButtons.forEach(button => {
         if (button.getAttribute('data-tab') === tabNumber.toString()) {
@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
       tabsNavContainer.appendChild(navButton);
       tabsContainer.appendChild(tabWrapper);
-      navButton.click(); // Inicializar a aba recém-adicionada
+      navButton.click(); 
     }
   
     function deleteCurrentTab() {
@@ -64,10 +64,10 @@ document.addEventListener('DOMContentLoaded', function () {
         activeTab.remove();
         activeTabButton.remove();
   
-        // Selecionar a última aba visível restante, se houver
+        
         const remainingTabs = document.querySelectorAll('.tab-wrapper');
         if (remainingTabs.length > 0) {
-          // Selecionar a última aba restante
+          
           const newActiveTabNumber = remainingTabs[remainingTabs.length - 1].getAttribute('data-tab');
           document.querySelector(`.nav-button[data-tab="${newActiveTabNumber}"]`).click();
         }
@@ -77,9 +77,9 @@ document.addEventListener('DOMContentLoaded', function () {
     addTabButton.addEventListener('click', addNewTab);
     deleteTabButton.addEventListener('click', deleteCurrentTab);
   
-    // Inicializar com uma aba
+   
     if (document.querySelectorAll('.tab-wrapper').length === 0) {
-      addNewTab(); // Adicionar uma aba inicial se nenhuma existir
+      addNewTab(); 
     } else {
       document.querySelectorAll('.tab-wrapper')[0].querySelector('.tab-title').click(); // Selecionar a primeira aba se houver
     }
